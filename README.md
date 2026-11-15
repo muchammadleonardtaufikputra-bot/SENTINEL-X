@@ -169,3 +169,10 @@ python test_detector.py
 ## Project Purpose
 
 SENTINEL X is a personal cybersecurity learning and portfolio project demonstrating Windows event collection, rule-based detection, alert management, dashboard analytics, testing, and security reporting.
+## Live Demo
+
+Try the public SENTINEL X SOC simulation:
+
+[Open SENTINEL X Demo](https://muchammadleonardtaufikputra-bot.github.io/portofolio/projects/sentinel-x/)
+
+> This demo uses synthetic data and is separate from the local Windows monitoring application.
