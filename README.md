@@ -1,6 +1,7 @@
 # SENTINEL X
 
 **Personal Security Operations Center | Windows Monitoring**
+![SENTINEL X Dashboard](SENTINEL-X.png)
 
 SENTINEL X is a local Windows security monitoring and SOC analytics portfolio project built with Python. It collects selected Windows Event Logs, stores event metadata in SQLite, applies predefined detection rules, manages alerts, and presents monitoring information through a local web dashboard.
 
