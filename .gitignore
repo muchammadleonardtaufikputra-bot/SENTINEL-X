@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Backups
+*backup*
+*.bak
+
+# Reports and logs
+reports/*
+*.log
+
+# Temporary files
+*.tmp
+.env
